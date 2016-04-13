@@ -34,3 +34,7 @@ node_modules
 
 # IntelliJ Idea project
 .idea
+
+# Uploads folder
+uploads
+
